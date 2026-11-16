@@ -1,0 +1,88 @@
+/* Overall Website Styling */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #333333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styling */
+
+#header {
+  background-color: #17324d;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+
+/* Profile Photo Styling */
+
+#profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+
+/* Navigation Bar Styling */
+
+#navbar {
+  background-color: #24496a;
+  text-align: center;
+  padding: 15px;
+  position: sticky;
+  top: 0;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: underline;
+  padding: 10px;
+  font-size: 15px;
+}
+
+#navbar a:hover {
+  background-color: #456b8c;
+  color: white;
+}
+
+/* Resume Section Styling */
+
+.resume-section {
+  background-color: white;
+  margin: 20px;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+/* Section Headings */
+
+.resume-section h2 {
+  color: #17324d;
+  border-bottom: 2px solid #24496a;
+  padding-bottom: 8px;
+}
+
+/* Paragraph Styling */
+
+p {
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+/* List Styling */
+
+li {
+  padding: 5px;
+  line-height: 1.5;
+}
+
+
+
+
